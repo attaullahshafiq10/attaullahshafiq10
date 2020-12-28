@@ -40,7 +40,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 ### 💼 Where i am currently working at/as
 - [Administrator & Writer](https://dawaat.org) 💼 
 - [Student](https://usindh.edu.pk) ✒
-- [Open World: Freelance](https://stephenajulu.com)
+- [Instructor](https://netacad.com)
 
 ### 💻 What i am currently/done working on
 - [Portfolio](https://attaullahshafiq10.github.io/)  🚀
