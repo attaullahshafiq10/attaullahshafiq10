@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi folks 👋
 
 <!--
 **attaullahshafiq10/attaullahshafiq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,15 +29,12 @@ I'm also currently doing my Bsc in IT while working on my company and other proj
 I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging and Automation.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi(my own and my clients), Studying or watching anime</p>
 
-<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
+<h3 align="center">  My Projects: <a href="https://attaullahshafiq10.github.io/projects/">here</a> </h3>
 
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Simple Personal URL Shortener with GitHub, Netlify and an Affordable Domain Name](https://blog.stephenajulu.com/post/how-to-create-a-simple-personal-url-shortener-with-github-netlify-and-an-affordable-domain-name/)
-- [How to Create a Dev Environment in Windows 10: Part 1](https://blog.stephenajulu.com/post/how-to-create-a-dev-environment-in-windows-10-part-1/)
-- [Resources for Building a Beautiful Progressive JAMstack Blog](https://blog.stephenajulu.com/post/resources-for-building-a-beautiful-progressive-jamstack-blog/)
-- [Building a Beautiful Progressive JAMstack Blog Part 2: Day 4 to 7](https://blog.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-2-day-4-to-7/)
-- [Building a Beautiful Progressive JAMstack Blog Part 1: Day 1 to 3](https://blog.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-1-day-1-to-3/)
+- [Essays](https://attaullahshafiq10.github.io/essays/)
+- [Blogs](https://www.dawaat.org/category/%d8%b9%d8%b7%d8%a7%d8%a1%d8%a7%d9%84%d9%84%db%81-%d8%b4%d9%81%db%8c%d9%82/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
