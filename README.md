@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">I'm a Telecommunication Engineer, AI/ML Enthusiast, MATLAB and Python Cody from Pakistan.
 I'm also currently doing my BS in Telecommunication Engineering while working on other projects.
 I currently passionate about AI/ML, Computer Vision, IoT, Networking and also a passionate researcher.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi(my own and my clients), Studying or watching anime</p>
+When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects, Studying or watching anime</p>
 
 <h3 align="center">  My Projects: <a href="https://attaullahshafiq10.github.io/projects/">here</a> </h3>
 
