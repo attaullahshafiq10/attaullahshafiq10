@@ -31,10 +31,10 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 <h3 align="center">  My Projects: <a href="https://attaullahshafiq10.github.io/projects/">here</a> </h3>
 
-### 📰 Blog Posts
+### 📰 Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Essays](https://attaullahshafiq10.github.io/essays/)
-- [Blogs](https://www.dawaat.org/category/%d8%b9%d8%b7%d8%a7%d8%a1%d8%a7%d9%84%d9%84%db%81-%d8%b4%d9%81%db%8c%d9%82/)
+- [Essays/Blogs](https://attaullahshafiq10.github.io/essays/)
+- [Dawaat Blogs](https://www.dawaat.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
@@ -53,15 +53,16 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
 
 ### 📫 Where to find me
-- [Facebook](https://facebook.com/stephenajulu) 😏
-- [Twitter](https://twitter.com/stephenajulu) 🐤
-- [Instagram](https://instagram.com/stephenajulu) 😎
-- [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
-- [Website](https://stephenajulu.com) 😏🔗
-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻
-- [Additional places to find me](https://stephenajulu.com/links) 🔗🔗
-- [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
-- [New Blog: Coming Soon](https://ajulusthoughts3.netlify.app) 🔨✒
-- [TechWit Ke: Also Coming Soon](https://techwit2.netlify.app) 🔨✒
+- [Facebook](https://facebook.com/attaullahshafiq10) 😏
+- [Twitter](https://twitter.com/iamAttaullah10) 🐤
+- [Instagram](https://www.instagram.com/iamattaullah10/) 😎
+- [LinkedIn](https://www.linkedin.com/in/attaullahshafiq10/) 👨💼
+- [Website](https://attaullahshafiq10.github.io/) 😏🔗
+- [Blog](https://www.dawaat.org/) 🤓💻
+- [Github](https://github.com/attaullahshafiq10) 🔗🔗
+- [Email](attaullahshafiq10@gmail.com) 💌
 
+
+<!--
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
+-->
