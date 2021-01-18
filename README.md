@@ -34,6 +34,8 @@ When I'm not developing and building things, you can find me on Youtube learning
 ### 📰 Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Essays/Blogs](https://attaullahshafiq10.github.io/essays/)
+- [Web Blog on Medium](https://attaullahshafiq10.medium.com/)
+- [Dev Blogs](https://dev.to/attaullahshafiq10/)
 - [Dawaat Blogs](https://www.dawaat.org/)
 <!-- BLOG-POST-LIST:END -->
 
