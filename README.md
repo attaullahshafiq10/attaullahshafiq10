@@ -73,6 +73,7 @@ When I'm not developing and building things, you can find me on online learning,
 ### Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attaullahshafiq10)](https://github.com/attaullahshafiq10/github-readme-stats)
 
+
+![Attaullah's Github Stats](https://github-readme-stats.vercel.app/api?username=attaullahshafiq10&show_icons=true&theme=radical)
 <!--
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
 -->
