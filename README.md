@@ -68,6 +68,8 @@ When I'm not developing and building things, you can find me on online learning,
 - [Email](attaullahshafiq10@gmail.com) 💌
 
 
+![Hafiz Muhhammad Attaullah's github stats](https://github-readme-stats.vercel.app/api?username=attaullahshafiq10)
+
 <!--
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
 -->
