@@ -67,8 +67,11 @@ When I'm not developing and building things, you can find me on online learning,
 - [Github](https://github.com/attaullahshafiq10) 🔗🔗
 - [Email](attaullahshafiq10@gmail.com) 💌
 
-
+### Github Stats
 ![Hafiz Muhhammad Attaullah's github stats](https://github-readme-stats.vercel.app/api?username=attaullahshafiq10)
+
+### Top Languages Card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attaullahshafiq10)](https://github.com/attaullahshafiq10/github-readme-stats)
 
 <!--
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
