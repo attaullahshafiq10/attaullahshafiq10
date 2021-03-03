@@ -40,6 +40,7 @@ When I'm not developing and building things, you can find me on online learning,
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
+- [Community Manager](https://netacad.com) 💼
 - [Administrator & Writer](https://dawaat.org) 💼 
 - [Student](https://usindh.edu.pk) ✒
 - [Instructor](https://netacad.com)
