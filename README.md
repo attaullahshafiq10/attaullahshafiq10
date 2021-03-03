@@ -83,11 +83,6 @@ When I'm not developing and building things, you can find me on online learning,
 
 
 
-[website]: http://my-portfilo-d78b3.web.app/
-[twitter]: https://twitter.com/Muhamma05909589
-[instagram]: https://www.instagram.com/zubair2880/
-[linkedin]: https://www.linkedin.com/in/muhammad-zubair-minhas-224541183/
-[facebook]: https://web.facebook.com/profile.php?id=100010093773879
 
 
 
