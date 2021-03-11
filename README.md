@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hello there! My name is Hafiz Muhammad Attaullah. 👋🤓</h2>
 <p align="center">I'm a Telecommunication Engineer, AI/ML Enthusiast, MATLAB and Python Cody from Pakistan.
-I'm also currently doing my BS in Telecommunication Engineering while working on other projects.
+I'm currently doing as Microsoft Certified Trainer (MCT) and Cisco Certified Trainer, while working on other projects.
 I currently passionate about AI/ML, Computer Vision, IoT, Networking, Cyber Security and also a passionate researcher.
 When I'm not developing and building things, you can find me on online learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects, Studying or watching anime</p>
 
