@@ -103,7 +103,7 @@ When I'm not developing and building things, you can find me on online learning,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attaullahshafiq10)](https://github.com/attaullahshafiq10/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindninjaX&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attaullahshafiq10&layout=compact&theme=radical)
 
 <!--
 -->
