@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## [![Attaullah Shafiq's header](https://github.com/attaullahshafiq10/attaullahshafiq10/blob/main/atta.png)](https://attaullahshafiq10.github.io)
 -->
-## [![Attaullah Shafiq's header](https://github.com/attaullahshafiq10/attaullahshafiq10/blob/main/)](https://attaullahshafiq10.github.io)
+
 
 <p align='center'>
 <a href="https://dev.to/attaullahshafiq10"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
