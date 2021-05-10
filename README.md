@@ -109,4 +109,6 @@ When I'm not developing and building things, you can find me on online learning,
 
 <!--
 -->
-[![Attaullah Shafiq's header](https://github.com/attaullahshafiq10/attaullahshafiq10/blob/main/Dev2.PNG)](https://attaullahshafiq10.github.io)
+
+### Fun
+[![Attaullah Dev's header](https://github.com/attaullahshafiq10/attaullahshafiq10/blob/main/Dev2.PNG)](https://attaullahshafiq10.github.io)
