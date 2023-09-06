@@ -26,10 +26,12 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">Hello there! My name is Hafiz Muhammad Attaullah. 👋🤓</h2>
-<p align="center">I'm a Telecommunication Engineer, AI/ML Enthusiast, MATLAB and Python Cody from Pakistan.
-I'm currently doing as Microsoft Certified Trainer (MCT) and Cisco Certified Trainer, Subject Matter Expert at CertiProf while working on other projects. Other than this I am a Section Lead at IEEEXtreme.
-I currently passionate about AI/ML, Computer Vision, IoT, Networking, Cyber Security and also a passionate researcher.
-When I'm not developing and building things, you can find me on online learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects, Studying or watching anime</p>
+<p align="center">I'm a Cybersecurity Researcher, AI/ML Enthusiast, Python and MATLAB Cody from Pakistan.
+ I have done my Bachelors (Hons) degree in Telecommunication Engineering, and MS in Telecommunication Systems Engineering (specialization in Cybersecurity) from NED University of Engineering and Technology, Pakistan. 
+I am the founder of a cybersecurity startup company NanoTechx Private Limited having four infosec products, funded by Ignite and HEC.
+Currently working as Lecturer at Department of Computer Science, Mohammad Ali Jinnah University (MAJU), Karachi Pakistan. Also, I had the experience of working with multi-national companies as Cloud Security Engineer.
+Previously, I was the Regional and country Champion of the Microsoft Imagine Cup and one of the top 10 World Finalists. And the winner of many international Competitions.
+ I am also serving as a SME and Community Expert for Microsoft, AWS, Cisco and Certiprof. My research interests include Cybersecurity, NB, IoT, Next Generation Networks & Machine Learning for security applications.</p>
 
 <h3 align="center">  My Projects: <a href="https://attaullahshafiq10.github.io/projects/">here</a> </h3>
 
